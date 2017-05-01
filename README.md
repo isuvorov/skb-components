@@ -1,2 +1,2 @@
-# lsk-general
-Lego Starter Kit / General blocks
+# SkillBranch Middle Course Project
+Components: Avatar
